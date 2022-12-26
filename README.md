@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
+<img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta12d1a2&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta12d1a2" /> </p>
 
@@ -26,4 +26,4 @@ href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://w
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgupta12d1a2&" alt="yashgupta12d1a2" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgupta12d1a2" alt="yashgupta12d1a2" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
